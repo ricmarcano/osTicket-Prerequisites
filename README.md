@@ -35,7 +35,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1.) The first thing you are going to want to do is create a virtual machine by going to https://portal.azure.com/. Setup your virtual machine with Windows 10 Pro, version 22H2. Note, you will want to create a virtual machine with atleast 2 vcpus and 16 gbs of memory.
 
 2.) Once you have created your virtual machine you will want to conncet to it by using the public ip address the vm is setup with. You will connect using the remote desktop connection app.
-(https://github.com/ricmarcano/osTicket-Prerequisites/assets/141169092/796cb018-eb7d-4010-ae71-d2c5b8a98332)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
